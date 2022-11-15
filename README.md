@@ -5,7 +5,7 @@
 Fully comprehensive Dashboard for managing eCommerce websites or any website for any business built using modern frameworks.
 The dashboard contains all necessary sections needed to manage a website and keep track of it.
 
-Feel free to use the deployed app on [Netlify]('https://63331cf075c7635594953673--snazzy-kangaroo-b690b2.netlify.app/')
+Feel free to use the deployed app on <a href='https://63331cf075c7635594953673--snazzy-kangaroo-b690b2.netlify.app/'>Netlify</a>
 
 ## Front-End Libraries
 <p float='center'>
